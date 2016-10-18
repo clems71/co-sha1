@@ -1,6 +1,6 @@
 {
   "name": "co-sha1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Clement Jacob <clems71@gmail.com>",
-  "repository": "https://github.com/clems71/filestore.js.git",
+  "repository": "https://github.com/clems71/co-sha1.git",
   "license": "MIT",
   "devDependencies": {
     "co-mocha": "^1.1.3",
