@@ -25,7 +25,7 @@ co(function * () {
     // → 430ce34d020724ed75a196dfc2ad67c77772d169
 
     // Asynchronous with Streams
-    console.log(yield sha1(fs.createReadStream('hello.txt')))
+    console.log(await sha1(fs.createReadStream('hello.txt')))
     // → 430ce34d020724ed75a196dfc2ad67c77772d169
 })
 ```
